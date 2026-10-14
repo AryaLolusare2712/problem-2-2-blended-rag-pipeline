@@ -1,7 +1,7 @@
-__pycache__/
-*.pyc
 .venv/
-venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.tenderlens_index/
+*.egg-info/
 .env
-node_modules/
-.DS_Store

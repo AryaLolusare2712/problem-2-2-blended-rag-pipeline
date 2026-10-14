@@ -1,0 +1,17 @@
+[
+  {
+    "query_id": "deadline-amendment",
+    "query": "What is the revised bid submission deadline?",
+    "relevant_chunk_ids": ["sample_corrigendum.md::p0::c0"]
+  },
+  {
+    "query_id": "exact-tender-id",
+    "query": "Which tender has ID MFS/PROC/2026/017?",
+    "relevant_chunk_ids": ["sample_tender.md::p0::c0"]
+  },
+  {
+    "query_id": "turnover-eligibility",
+    "query": "What minimum average annual turnover must the bidder prove?",
+    "relevant_chunk_ids": ["sample_tender.md::p0::c0"]
+  }
+]
